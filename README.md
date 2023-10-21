@@ -3,6 +3,7 @@ Description: This JavaScript program retrieves and displays information about th
 
 # How to Run Project
 step1:Save the HTML file with html extension.
+
 step2:Click the "Go Live" button.A new browser window will open, displaying Boston data
 
 # Future Enhancement:
